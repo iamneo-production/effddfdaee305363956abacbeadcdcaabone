@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BkvMqJmUDE7wj+02flYu5y/z/xC75hQ9Q+2/2nNDr+0=",
+  "Source": "dotnetapiapp",
+  "BasePath": "_content/dotnetapiapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
