@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MGR26ayMqyE2dLpIpKx4+FsTxtsj9HvSF7q/phlQg+yTngnNqsYBCIS4VrEWrpDRbXrqno+GNE/OS89OTPrp2g==",
+  "success": true,
+  "projectFilePath": "/home/coder/project/workspace/dotnetproject/dotnetmvcapp/dotnetmvcapp.csproj",
+  "expectedPackageFiles": [
+    "/home/coder/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -57,13 +57,14 @@ namespace dotnetapiapp.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteBook(int id)
         {
-            if (id <= 0)
-                return BadRequest("Not a valid Book id");
+            // if (id <= 0)
+            //     return BadRequest("Not a valid Book id");
 
-            var book = await _context.Books.FindAsync(id);
-              _context.Books.Remove(book);
-                await _context.SaveChangesAsync();
-            return NoContent();
+            // var book = await _context.Books.FindAsync(id);
+            //   _context.Books.Remove(book);
+            //     await _context.SaveChangesAsync();
+            // return NoContent();
+            return null;
         }
     }
 }

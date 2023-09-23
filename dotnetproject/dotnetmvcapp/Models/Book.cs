@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace BookStoreApp.Models;
+namespace dotnetmvcapp.Models;
 
 public class Book
 {

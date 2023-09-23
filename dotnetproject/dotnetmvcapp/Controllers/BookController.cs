@@ -1,10 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
-using BookStoreApp.Models;
-using BookStoreApp.Services;
+using dotnetmvcapp.Models;
+using dotnetmvcapp.Services;
 using System;
 using System.Threading.Tasks;
 
-namespace BookStoreApp.Controllers
+namespace dotnetmvcapp.Controllers
 {
     public class BookController : Controller
     {

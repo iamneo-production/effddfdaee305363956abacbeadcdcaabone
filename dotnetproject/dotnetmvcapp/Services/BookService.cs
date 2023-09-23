@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
-using BookStoreApp.Models;
+using dotnetmvcapp.Models;
 
-namespace BookStoreApp.Services
+namespace dotnetmvcapp.Services
 {
     public interface IBookService
     {
